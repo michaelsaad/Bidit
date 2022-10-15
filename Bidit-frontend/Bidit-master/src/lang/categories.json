@@ -1,0 +1,47 @@
+{
+  "categories": {
+    "name": { "ar": "الاقسام", "en": "Categories" },
+    "items": [
+      {
+        "ar": "فن",
+        "en": "art",
+        "to": "art"
+      },
+      {
+        "ar": "اثاث",
+        "en": "furniture",
+        "to": "furniture"
+      },
+      {
+        "ar": "تحف",
+        "en": "antiques",
+        "to": "antiques"
+      },
+      {
+        "ar": "تكنولوچيا",
+        "en": "technology",
+        "to": "technology"
+      },
+      {
+        "ar": "ملابس",
+        "en": "clothes",
+        "to": "clothes"
+      },
+      {
+        "ar": "سيارات",
+        "en": "cars",
+        "to": "cars"
+      },
+      {
+        "ar": "حيوانات",
+        "en": "animals",
+        "to": "animals"
+      },
+      {
+        "ar": "اخرى",
+        "en": "others",
+        "to": "others"
+      }
+    ]
+  }
+}

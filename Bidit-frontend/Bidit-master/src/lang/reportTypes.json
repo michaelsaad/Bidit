@@ -1,0 +1,24 @@
+{
+  "reportTypes": [
+    {
+      "ar": "معلومات خاطئة",
+      "en": "False Information"
+    },
+    {
+      "ar": "عري",
+      "en": "Nudity"
+    },
+    {
+      "ar": "مبالغة في السعر",
+      "en": "Over pricing"
+    },
+    {
+      "ar": "اتجار بالبشر",
+      "en": "Human Trafficking"
+    },
+    {
+      "ar": "شئ اخر",
+      "en": "Something Else"
+    }
+  ]
+}

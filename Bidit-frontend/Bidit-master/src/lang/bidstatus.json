@@ -1,0 +1,20 @@
+{
+  "statuses": [
+    {
+      "ar": "نشط",
+      "en": "active"
+    },
+    {
+      "ar": "الغى",
+      "en": "canceled"
+    },
+    {
+      "ar": "انتهى",
+      "en": "expired"
+    },
+    {
+      "ar": "قريباً",
+      "en": "soon"
+    }
+  ]
+}

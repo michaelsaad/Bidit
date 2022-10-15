@@ -1,0 +1,20 @@
+{
+  "reportStatuses": [
+    {
+      "ar": "انتظار",
+      "en": "pending"
+    },
+    {
+      "ar": "معالجة",
+      "en": "processing"
+    },
+    {
+      "ar": "تم اخذ الاجراء المناسب",
+      "en": "took the appropriate action"
+    },
+    {
+      "ar": "قام الادمن بالغائه",
+      "en": "canceled by admin"
+    }
+  ]
+}

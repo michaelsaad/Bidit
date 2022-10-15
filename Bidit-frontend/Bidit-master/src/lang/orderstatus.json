@@ -1,0 +1,32 @@
+{
+  "statuses": [
+    {
+      "ar": "انتظار",
+      "en": "pending"
+    },
+    {
+      "ar": "تم الالغاء",
+      "en": "canceled"
+    },
+    {
+      "ar": "نشط",
+      "en": "active"
+    },
+    {
+      "ar": "يتم الالتقاط",
+      "en": "on delivery"
+    },
+    {
+      "ar": "تم التقاطه",
+      "en": "picked up"
+    },
+    {
+      "ar": "يتم التوصيل",
+      "en": "on delivery"
+    },
+    {
+      "ar": "تم التوصيل",
+      "en": "delivered"
+    }
+  ]
+}

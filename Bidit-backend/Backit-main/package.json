@@ -1,0 +1,41 @@
+{
+  "name": "backit",
+  "version": "1.0.0",
+  "description": "Bidit backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "pm2-runtime start ecosystem.config.js",
+    "deploy": "git push heroku main",
+    "heroku-postbuild": "npm install pm2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirolos-kr7/Backit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirolos-kr7/Backit/issues"
+  },
+  "homepage": "https://github.com/Kirolos-kr7/Backit#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.1",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "imagekit": "^3.2.5",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.7",
+    "node-mailjet": "^3.4.1",
+    "socket.io": "^4.5.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

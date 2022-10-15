@@ -1,0 +1,17 @@
+{
+  "list": {
+    "name": { "ar": "التنقل", "en": "Navigation" },
+    "items": [
+      {
+        "ar": "تواصل معنا",
+        "en": "Contact",
+        "to": "contact"
+      },
+      {
+        "ar": "من نحن؟",
+        "en": "Who are we?",
+        "to": "about"
+      }
+    ]
+  }
+}
